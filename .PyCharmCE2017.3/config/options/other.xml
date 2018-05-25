@@ -1,0 +1,28 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/Practice/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/Python_for_testers/venv/bin/python" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/mint/venv/bin/python" value="true" />
+        <entry key="$USER_HOME$/venv/Practice/bin/python" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/Practice/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/Python_for_testers/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/mint/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/venv/Practice/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/Practice/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/Python_for_testers/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/mint/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/venv/Practice/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

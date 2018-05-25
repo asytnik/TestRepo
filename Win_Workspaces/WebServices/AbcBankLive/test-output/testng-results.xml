@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10609" started-at="2017-12-19T05:16:41Z" finished-at="2017-12-19T05:16:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10609" started-at="2017-12-19T05:16:41Z" finished-at="2017-12-19T05:16:52Z">
+      <class name="com.qa.tests.LoginTest_NG">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.LoginTest_NG@5bb21b69]" name="setUp" is-config="true" duration-ms="7338" started-at="2017-12-19T00:16:41Z" finished-at="2017-12-19T00:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goToSite()[pri:0, instance:com.qa.tests.LoginTest_NG@5bb21b69]" name="goToSite" is-config="true" duration-ms="650" started-at="2017-12-19T00:16:48Z" finished-at="2017-12-19T00:16:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToSite -->
+        <test-method status="PASS" signature="loginTest_ng()[pri:0, instance:com.qa.tests.LoginTest_NG@5bb21b69]" name="loginTest_ng" duration-ms="861" started-at="2017-12-19T00:16:49Z" finished-at="2017-12-19T00:16:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest_ng -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginTest_NG@5bb21b69]" name="tearDown" is-config="true" duration-ms="1693" started-at="2017-12-19T00:16:50Z" finished-at="2017-12-19T00:16:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.LoginTest_NG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

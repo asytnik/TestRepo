@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40826" started-at="2017-12-03T06:39:15Z" finished-at="2017-12-03T06:39:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40826" started-at="2017-12-03T06:39:15Z" finished-at="2017-12-03T06:39:56Z">
+      <class name="regression.TestParameterization">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:regression.TestParameterization@4667ae56]" name="setUp" is-config="true" duration-ms="19036" started-at="2017-12-03T12:09:15Z" finished-at="2017-12-03T12:09:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:regression.TestParameterization@4667ae56]" name="doLogin" duration-ms="8001" started-at="2017-12-03T12:09:35Z" data-provider="getData" finished-at="2017-12-03T12:09:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[trainer@way2automation.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sdfsdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:regression.TestParameterization@4667ae56]" name="doLogin" duration-ms="5833" started-at="2017-12-03T12:09:43Z" data-provider="getData" finished-at="2017-12-03T12:09:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[w2ajava@way2automation.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sdfsdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:regression.TestParameterization@4667ae56]" name="doLogin" duration-ms="6244" started-at="2017-12-03T12:09:49Z" data-provider="getData" finished-at="2017-12-03T12:09:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[info@way2automation.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xvxfvdssf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:regression.TestParameterization@4667ae56]" name="tearDown" is-config="true" duration-ms="1043" started-at="2017-12-03T12:09:55Z" finished-at="2017-12-03T12:09:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- regression.TestParameterization -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

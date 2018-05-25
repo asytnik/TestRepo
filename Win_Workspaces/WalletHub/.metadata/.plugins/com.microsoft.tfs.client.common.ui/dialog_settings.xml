@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.microsoft.tfs.client.common.ui.framework.diagnostics.ui.SupportDialog">
+		<item value="1" key="VIEWS"/>
+		<item value="0" key="DIALOG_ORIGIN_Y"/>
+		<item value="246" key="DIALOG_ORIGIN_X"/>
+		<item value="966" key="DIALOG_WIDTH"/>
+		<item value="12/05/17 21:18:57" key="SINCE"/>
+		<item value="165520" key="ACCUMULATED_OPEN_TIME"/>
+		<item value="618" key="DIALOG_HEIGHT"/>
+		<item value="1" key="TIME_COUNTS"/>
+	</section>
+</section>

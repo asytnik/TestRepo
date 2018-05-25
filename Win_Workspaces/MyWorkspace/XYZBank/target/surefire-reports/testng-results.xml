@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Data Driven Basics" duration-ms="69406" started-at="2017-11-08T02:17:48Z" finished-at="2017-11-08T02:18:58Z">
+    <groups>
+    </groups>
+    <test name="Bank Manager Login Test" duration-ms="4321" started-at="2017-11-08T02:17:48Z" finished-at="2017-11-08T02:17:53Z">
+      <class name="testcases.BankManagerLoginTest">
+        <test-method status="PASS" signature="loginAsBankManager()[pri:0, instance:testcases.BankManagerLoginTest@156b88f5]" name="loginAsBankManager" duration-ms="3672" started-at="2017-11-07T21:17:48Z" finished-at="2017-11-07T21:17:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAsBankManager -->
+      </class> <!-- testcases.BankManagerLoginTest -->
+    </test> <!-- Bank Manager Login Test -->
+    <test name="Add Customer Test" duration-ms="36419" started-at="2017-11-08T02:17:53Z" finished-at="2017-11-08T02:18:29Z">
+      <class name="testcases.AddCustomerTest">
+        <test-method status="PASS" signature="addCustomerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.AddCustomerTest@5acf93bb]" name="addCustomerTest" duration-ms="5764" started-at="2017-11-07T21:17:53Z" data-provider="dp" finished-at="2017-11-07T21:17:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Semen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gorbunkov]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[121165.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Customer added successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="addCustomerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.AddCustomerTest@5acf93bb]" name="addCustomerTest" duration-ms="4907" started-at="2017-11-07T21:17:58Z" data-provider="dp" finished-at="2017-11-07T21:18:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ivan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ivanov]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[235154.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Customer added successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="addCustomerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.AddCustomerTest@5acf93bb]" name="addCustomerTest" duration-ms="5323" started-at="2017-11-07T21:18:03Z" data-provider="dp" finished-at="2017-11-07T21:18:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Petr]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Petrov]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[235155.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Customer added successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="addCustomerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.AddCustomerTest@5acf93bb]" name="addCustomerTest" duration-ms="4880" started-at="2017-11-07T21:18:09Z" data-provider="dp" finished-at="2017-11-07T21:18:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sidor]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sidorov]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[235156.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Customer added successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="addCustomerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.AddCustomerTest@5acf93bb]" name="addCustomerTest" duration-ms="4949" started-at="2017-11-07T21:18:14Z" data-provider="dp" finished-at="2017-11-07T21:18:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Fedor]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fedorov]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[235157.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Customer added successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="addCustomerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.AddCustomerTest@5acf93bb]" name="addCustomerTest" duration-ms="4922" started-at="2017-11-07T21:18:19Z" data-provider="dp" finished-at="2017-11-07T21:18:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pavel ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pavlov]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[235158.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Customer added successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="addCustomerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.AddCustomerTest@5acf93bb]" name="addCustomerTest" duration-ms="4915" started-at="2017-11-07T21:18:24Z" data-provider="dp" finished-at="2017-11-07T21:18:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sergey]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sergeev]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[235159.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Customer added successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+      </class> <!-- testcases.AddCustomerTest -->
+    </test> <!-- Add Customer Test -->
+    <test name="Open Account Test" duration-ms="28621" started-at="2017-11-08T02:18:29Z" finished-at="2017-11-08T02:18:58Z">
+      <class name="testcases.OpenAccountTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.OpenAccountTest@1af2d44a]" name="setUp" is-config="true" duration-ms="8208" started-at="2017-11-07T21:17:40Z" finished-at="2017-11-07T21:17:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="openAccountTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.OpenAccountTest@1af2d44a]" name="openAccountTest" duration-ms="4831" started-at="2017-11-07T21:18:29Z" data-provider="dp" finished-at="2017-11-07T21:18:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Semen Gorbunkov]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dollar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Account created successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccountTest -->
+        <test-method status="PASS" signature="openAccountTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.OpenAccountTest@1af2d44a]" name="openAccountTest" duration-ms="3882" started-at="2017-11-07T21:18:34Z" data-provider="dp" finished-at="2017-11-07T21:18:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ivan Ivanov]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dollar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Account created successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccountTest -->
+        <test-method status="PASS" signature="openAccountTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.OpenAccountTest@1af2d44a]" name="openAccountTest" duration-ms="3875" started-at="2017-11-07T21:18:38Z" data-provider="dp" finished-at="2017-11-07T21:18:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Petr Petrov]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dollar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Account created successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccountTest -->
+        <test-method status="PASS" signature="openAccountTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.OpenAccountTest@1af2d44a]" name="openAccountTest" duration-ms="3832" started-at="2017-11-07T21:18:42Z" data-provider="dp" finished-at="2017-11-07T21:18:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sidor Sidorov]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dollar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Account created successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccountTest -->
+        <test-method status="PASS" signature="openAccountTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.OpenAccountTest@1af2d44a]" name="openAccountTest" duration-ms="3829" started-at="2017-11-07T21:18:46Z" data-provider="dp" finished-at="2017-11-07T21:18:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Fedor Fedorov]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dollar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Account created successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccountTest -->
+        <test-method status="PASS" signature="openAccountTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.OpenAccountTest@1af2d44a]" name="openAccountTest" duration-ms="3867" started-at="2017-11-07T21:18:50Z" data-provider="dp" finished-at="2017-11-07T21:18:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pavel Pavlov]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dollar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Account created successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccountTest -->
+        <test-method status="PASS" signature="openAccountTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.OpenAccountTest@1af2d44a]" name="openAccountTest" duration-ms="3896" started-at="2017-11-07T21:18:54Z" data-provider="dp" finished-at="2017-11-07T21:18:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sergey Sergeev]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dollar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Account created successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.OpenAccountTest@1af2d44a]" name="tearDown" is-config="true" duration-ms="1500" started-at="2017-11-07T21:18:58Z" finished-at="2017-11-07T21:18:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.OpenAccountTest -->
+    </test> <!-- Open Account Test -->
+  </suite> <!-- Data Driven Basics -->
+</testng-results>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Open Account Test"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="28.012">
+  <properties />
+  
+  
+            <testcase name="openAccountTest" time="3.867" classname="testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="3.829" classname="testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="3.896" classname="testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="3.875" classname="testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="4.831" classname="testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="3.832" classname="testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="3.882" classname="testcases.OpenAccountTest" />
+      
+</testsuite>

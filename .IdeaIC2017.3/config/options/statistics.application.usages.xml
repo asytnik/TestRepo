@@ -1,0 +1,46 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Run Dashboard">
+      <project id="DemoLinux" values="run.dashboard.disabled" collectionTime="1520782504073" />
+    </group>
+    <group name="Git">
+      <project id="DemoLinux" values="config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,version.0.0.0-NULL,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.ssh.enabled" collectionTime="1520782504093" />
+    </group>
+    <group name="vcs-options">
+      <project id="DemoLinux" values="changelist.preselect.existing.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.optimize.imports.disabled,perform.checkout.in.background.enabled,perform.update.in.background.enabled,commit.before.reformat.project.disabled,commit.use.right.margin.enabled,perform.rollback.in.background.disabled,show.changes.preview.disabled,perform.edit.in.background.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.non.empty.comment.disabled,commit.clear.initial.comment.disabled,offer.move.partially.committed.disabled,commit.show.unversioned.enabled,perform.add_remove.in.background.enabled,commit.before.check.todo.enabled,commit.before.rearrange.disabled,include.text.into.shelf.enabled,perform.commit.in.background.enabled,check.conflicts.in.background.disabled,commit.before.check.code.smell.enabled,commit.before.check.code.cleanup.disabled,changelist.make.new.active.disabled" collectionTime="1520782503821" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="DemoLinux" values="Application" collectionTime="1520782503829" />
+    </group>
+    <group name="module-language-level">
+      <project id="DemoLinux" values="JDK_1_8" collectionTime="1520782504092" />
+    </group>
+    <group name="libraries">
+      <project id="DemoLinux" values="repository" collectionTime="1520782504076" />
+    </group>
+    <group name="file-type">
+      <project id="DemoLinux" values="IDEA_MODULE,PLAIN_TEXT,JAVA" collectionTime="1520782504071" />
+    </group>
+    <group name="module type">
+      <project id="DemoLinux" values="JAVA_MODULE" collectionTime="1520782503826" />
+    </group>
+    <group name="vcs-stats">
+      <project id="DemoLinux" values="active.changelists.count.1,vcs.roots.count.0,unversioned.files.count.0,has.default.vcs.root.mapping.enabled,ignored.files.count.0" collectionTime="1520782503825" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Project].hidden" count="1" />
+      <entry feature="StripeButton[Version Control].hidden" count="1" />
+      <entry feature="StripeButton[Version Control].shown" count="1" />
+      <entry feature="execute.Application.Run" count="13" />
+      <entry feature="execute.MavenRunConfiguration.Run" count="5" />
+      <entry feature="execute.TestNG.Run" count="1" />
+      <entry feature="ide.help.Colorblind_Settings" count="1" />
+      <entry feature="ide.settings.Appearance" count="6" />
+      <entry feature="ide.settings.Version Control" count="3" />
+      <entry feature="ideaapp.started" count="13" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+    </counts>
+  </component>
+</application>

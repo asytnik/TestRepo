@@ -1,0 +1,18 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Build -&gt; Build Module" count="1" />
+      <entry path="Build -&gt; Rebuild Project" count="1" />
+      <entry path="File -&gt; New -&gt; Project from Existing Sources..." count="2" />
+      <entry path="File -&gt; New -&gt; Project..." count="2" />
+      <entry path="File -&gt; Project Structure..." count="8" />
+      <entry path="File -&gt; Save All" count="1" />
+      <entry path="File -&gt; Settings..." count="9" />
+      <entry path="Help -&gt; About" count="1" />
+      <entry path="Help -&gt; Check for Updates..." count="1" />
+      <entry path="Run -&gt; Run" count="3" />
+      <entry path="Run -&gt; Run..." count="4" />
+      <entry path="Tools -&gt; Create Desktop Entry..." count="1" />
+    </counts>
+  </component>
+</application>

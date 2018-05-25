@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runner version="1.0.0">
+<category expanded="true" name="Uncategorized">
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="TestProperties"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="XYZBank_src.test.resources.runner.testng.xml"/>
+</category>
+</runner>

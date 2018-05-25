@@ -1,0 +1,50 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="4" />
+      <entry action="$Cut" count="5" />
+      <entry action="$Delete" count="3" />
+      <entry action="$Paste" count="11" />
+      <entry action="CheckinProject" count="1" />
+      <entry action="CodeCompletion" count="6" />
+      <entry action="Configure Python Interpreter" count="4" />
+      <entry action="CopyPaths" count="4" />
+      <entry action="CreateDesktopEntry" count="1" />
+      <entry action="CreateRunConfiguration" count="2" />
+      <entry action="Debug" count="2" />
+      <entry action="DebugClass" count="1" />
+      <entry action="EditorBackSpace" count="287" />
+      <entry action="EditorChooseLookupItem" count="24" />
+      <entry action="EditorDelete" count="107" />
+      <entry action="EditorDown" count="153" />
+      <entry action="EditorEnter" count="44" />
+      <entry action="EditorEscape" count="1" />
+      <entry action="EditorLeft" count="10" />
+      <entry action="EditorRight" count="53" />
+      <entry action="EditorUp" count="18" />
+      <entry action="FileChooser.GotoHome" count="1" />
+      <entry action="Fix all  Invalid interpreter configured  problems in file" count="1" />
+      <entry action="Git.Log" count="1" />
+      <entry action="HelpTopics" count="1" />
+      <entry action="ImportSettings" count="2" />
+      <entry action="LocalHistory.ShowHistory" count="2" />
+      <entry action="NewDir" count="1" />
+      <entry action="NewDirectoryProject" count="3" />
+      <entry action="NewElement" count="1" />
+      <entry action="NewPythonFile" count="2" />
+      <entry action="OpenFile" count="5" />
+      <entry action="Rerun" count="15" />
+      <entry action="RevealIn" count="1" />
+      <entry action="Run" count="2" />
+      <entry action="Run inspection on ..." count="1" />
+      <entry action="RunClass" count="55" />
+      <entry action="ShowFilePath" count="1" />
+      <entry action="ShowSettings" count="20" />
+      <entry action="Synchronize" count="3" />
+      <entry action="SynchronizeCurrentFile" count="2" />
+      <entry action="TemplateProjectProperties" count="5" />
+      <entry action="ToggleLineBreakpoint" count="5" />
+      <entry action="Vcs.UpdateProject" count="5" />
+    </counts>
+  </component>
+</application>

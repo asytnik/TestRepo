@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22504" started-at="2017-10-19T09:37:13Z" finished-at="2017-10-19T09:37:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22504" started-at="2017-10-19T09:37:13Z" finished-at="2017-10-19T09:37:35Z">
+      <class name="testnglearning.TestParameterization">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testnglearning.TestParameterization@553f17c]" name="setUp" is-config="true" duration-ms="5084" started-at="2017-10-18T21:37:13Z" finished-at="2017-10-18T21:37:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:testnglearning.TestParameterization@553f17c]" name="doLogin" duration-ms="4308" started-at="2017-10-18T21:37:19Z" data-provider="getData" finished-at="2017-10-18T21:37:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[loredo@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[777777.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:testnglearning.TestParameterization@553f17c]" name="doLogin" duration-ms="2791" started-at="2017-10-18T21:37:24Z" data-provider="getData" finished-at="2017-10-18T21:37:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[brabus@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[888888.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:testnglearning.TestParameterization@553f17c]" name="doLogin" duration-ms="2390" started-at="2017-10-18T21:37:26Z" data-provider="getData" finished-at="2017-10-18T21:37:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[swen@yandex.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[999999.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:testnglearning.TestParameterization@553f17c]" name="doLogin" duration-ms="2560" started-at="2017-10-18T21:37:29Z" data-provider="getData" finished-at="2017-10-18T21:37:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[trainer@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[666666.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:testnglearning.TestParameterization@553f17c]" name="doLogin" duration-ms="2650" started-at="2017-10-18T21:37:31Z" data-provider="getData" finished-at="2017-10-18T21:37:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[boroda@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[555555.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testnglearning.TestParameterization@553f17c]" name="tearDown" is-config="true" duration-ms="1406" started-at="2017-10-18T21:37:34Z" finished-at="2017-10-18T21:37:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testnglearning.TestParameterization -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

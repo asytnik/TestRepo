@@ -1,0 +1,12 @@
+<mainwindow tc="mainwindow">
+<quickaccess cmd="Qt_Menubar">
+<command idQ="OpenFile"/>
+<command idQ="SaveFile"/>
+<command idQ="PrintToPDF"/>
+<command idQ="Print"/>
+<command idQ="PrintDirect"/>
+<command idQ="PrintPreview"/>
+<command idQ="Undo"/>
+<command idQ="Redo"/>
+</quickaccess>
+</mainwindow>

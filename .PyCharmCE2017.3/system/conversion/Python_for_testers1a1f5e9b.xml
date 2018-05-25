@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/sqa-user/PycharmProjects/Python_for_testers/.idea/Python_for_testers.iml" timestamp="1520353530000" />
+    <file path="/home/sqa-user/PycharmProjects/Python_for_testers/.idea/codeStyleSettings.xml" timestamp="1520349012000" />
+    <file path="/home/sqa-user/PycharmProjects/Python_for_testers/.idea/codeStyles/codeStyleConfig.xml" timestamp="1520349026000" />
+    <file path="/home/sqa-user/PycharmProjects/Python_for_testers/.idea/inspectionProfiles/Project_Default.xml" timestamp="1520349512000" />
+    <file path="/home/sqa-user/PycharmProjects/Python_for_testers/.idea/misc.xml" timestamp="1520353530000" />
+    <file path="/home/sqa-user/PycharmProjects/Python_for_testers/.idea/modules.xml" timestamp="1520349012000" />
+    <file path="/home/sqa-user/PycharmProjects/Python_for_testers/.idea/vcs.xml" timestamp="1520349012000" />
+    <file path="/home/sqa-user/PycharmProjects/Python_for_testers/.idea/workspace.xml" timestamp="1520361741000" />
+  </project-files>
+</conversion>
+

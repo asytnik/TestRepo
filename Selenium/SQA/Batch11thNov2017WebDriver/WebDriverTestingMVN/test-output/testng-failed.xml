@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Functional Suite]">
+  <listeners>
+    <listener class-name="listeners.CustomListeners"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+  </listeners>
+  <test name="Validate Title Test(failed)">
+    <classes>
+      <class name="functional.TestCase1">
+        <methods>
+          <include name="createDBConn"/>
+          <include name="closeBrowser"/>
+          <include name="closeDBConn"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- functional.TestCase1 -->
+      <class name="functional.TestCase2">
+        <methods>
+          <include name="validateTitles"/>
+        </methods>
+      </class> <!-- functional.TestCase2 -->
+    </classes>
+  </test> <!-- Validate Title Test(failed) -->
+  <test name="Dependency Test(failed)">
+    <classes>
+      <class name="functional.TestCase1">
+        <methods>
+          <include name="createDBConn"/>
+          <include name="closeBrowser"/>
+          <include name="closeDBConn"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- functional.TestCase1 -->
+      <class name="functional.TestCase3">
+        <methods>
+          <include name="doUserReg"/>
+          <include name="isSkip"/>
+          <include name="doLogin"/>
+        </methods>
+      </class> <!-- functional.TestCase3 -->
+    </classes>
+  </test> <!-- Dependency Test(failed) -->
+</suite> <!-- Failed suite [Functional Suite] -->

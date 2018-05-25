@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/sqa-user/Apps/idea-IC-173.4127.27/DemoLinux/.idea/libraries/org_seleniumhq_selenium_selenium_java_3_5_3.xml" timestamp="1520781536000" />
+    <file path="/home/sqa-user/Apps/idea-IC-173.4127.27/DemoLinux/.idea/libraries/org_testng_testng_6_11.xml" timestamp="1520781536000" />
+    <file path="/home/sqa-user/Apps/idea-IC-173.4127.27/DemoLinux/.idea/misc.xml" timestamp="1514569660000" />
+    <file path="/home/sqa-user/Apps/idea-IC-173.4127.27/DemoLinux/.idea/modules.xml" timestamp="1514569916000" />
+    <file path="/home/sqa-user/Apps/idea-IC-173.4127.27/DemoLinux/.idea/project-template.xml" timestamp="1514569660000" />
+    <file path="/home/sqa-user/Apps/idea-IC-173.4127.27/DemoLinux/.idea/uiDesigner.xml" timestamp="1514569917000" />
+    <file path="/home/sqa-user/Apps/idea-IC-173.4127.27/DemoLinux/.idea/workspace.xml" timestamp="1520786322000" />
+    <file path="/home/sqa-user/Apps/idea-IC-173.4127.27/DemoLinux/DemoLinux.iml" timestamp="1520781536000" />
+  </project-files>
+</conversion>
+

@@ -1,0 +1,24 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="lastTip" value="10" />
+    <property name="file.gist.reindex.count" value="6451" />
+    <property name="OpenOrAttachDialog.OpenMode" value="replace" />
+    <property name="ExpandBeforeRunStepsPanel" value="false" />
+    <property name="PACKAGE_FILTER" value="virtualenv&#10;pytest&#10;sel&#10;selenium&#10;pymysql" />
+    <property name="PythonUnitTestRunner.Splitter.Proportion" value="0.18787426" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="file.chooser.recent.files" value="/usr/bin/gitkraken&#10;/home/sqa-user/PycharmProjects/Practice&#10;/home/sqa-user/PycharmProjects/Python_for_testers&#10;/home/sqa-user/PycharmProjects/Practice/venv&#10;/home/sqa-user/PycharmProjects/mint/venv&#10;/home/sqa-user/PycharmProjects/mint" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6228956" />
+  </component>
+</application>

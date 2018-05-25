@@ -1,0 +1,21 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="File -&gt; Default Settings..." count="5" />
+      <entry path="File -&gt; Import Settings..." count="2" />
+      <entry path="File -&gt; New Project..." count="3" />
+      <entry path="File -&gt; New..." count="1" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="2" />
+      <entry path="File -&gt; Open..." count="5" />
+      <entry path="File -&gt; Settings..." count="20" />
+      <entry path="File -&gt; Synchronize" count="3" />
+      <entry path="Help -&gt; Help" count="1" />
+      <entry path="Tools -&gt; Create Desktop Entry..." count="1" />
+      <entry path="VCS -&gt; Browse VCS Repository -&gt; Show Git Repository Log..." count="1" />
+      <entry path="VCS -&gt; Checkout from Version Control -&gt; Git" count="1" />
+      <entry path="VCS -&gt; Checkout from Version Control -&gt; GitHub" count="4" />
+      <entry path="VCS -&gt; Local History -&gt; Show History" count="1" />
+      <entry path="VCS -&gt; Update Project" count="1" />
+    </counts>
+  </component>
+</application>

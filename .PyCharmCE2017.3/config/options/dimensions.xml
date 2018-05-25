@@ -1,0 +1,33 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="689" y="343" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="301" y="189" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="426" y="104" />
+    <location key="GitCloneDialog.0.0.1366.768" x="355" y="268" />
+    <location key="SettingsEditor.0.0.1366.768" x="250" y="0" />
+    <location key="#py.test_in_test_orm_contact_in_group.py.0.0.1366.768" x="388" y="0" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="220" y="14" />
+    <location key="#py.test_in_Python_for_testers.0.0.1366.768" x="388" y="55" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" x="400" y="244" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1366.768" x="415" y="184" />
+    <location key="#Notifications.0.0.1366.768" x="435" y="77" />
+    <location key="CommitChangelistDialog2.0.0.1366.768" x="271" y="0" />
+    <size key="FileChooserDialogImpl.0.0.1366.768" width="516" height="540" />
+    <size key="GitCloneDialog.0.0.1366.768" width="657" height="287" />
+    <size key="SettingsEditor.0.0.1366.768" width="1082" height="733" />
+    <size key="#py.test_in_test_orm_contact_in_group.py.0.0.1366.768" width="592" height="733" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="678" height="173" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="678" height="173" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="678" height="173" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="678" height="173" />
+    <size key="#py.test_in_Python_for_testers.0.0.1366.768" width="592" height="639" />
+    <size key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" width="568" height="261" />
+    <size key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1366.768" width="538" height="380" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1366" height="228" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1366" height="228" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1366" height="228" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1366" height="228" />
+    <size key="#Notifications.0.0.1366.768" width="498" height="594" />
+    <size key="CommitChangelistDialog2.0.0.1366.768" width="825" height="733" />
+  </component>
+</application>

@@ -1,0 +1,68 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$APPLICATION_HOME_DIR$/DemoLinux" />
+        <option value="$USER_HOME$/Selenium/DDrivenFramework" />
+        <option value="$APPLICATION_HOME_DIR$/DemoTest" />
+        <option value="$USER_HOME$" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$APPLICATION_HOME_DIR$/DemoLinux" />
+      </list>
+    </option>
+    <option name="lastPath" value="$APPLICATION_HOME_DIR$/DemoLinux" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4127.27" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514569676090" />
+              <option name="buildTimestamp" value="1514223090958" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$APPLICATION_HOME_DIR$/DemoLinux">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4548.28" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520786322689" />
+              <option name="buildTimestamp" value="1517267481669" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$APPLICATION_HOME_DIR$/DemoTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4127.27" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515196684929" />
+              <option name="buildTimestamp" value="1514223104918" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Selenium/DDrivenFramework">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4301.25" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516208154821" />
+              <option name="buildTimestamp" value="1516035405118" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Selenium" />
+  </component>
+</application>

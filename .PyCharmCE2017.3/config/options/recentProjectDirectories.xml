@@ -1,0 +1,56 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/PycharmProjects/Practice" />
+        <option value="$USER_HOME$/PycharmProjects/Python_for_testers" />
+        <option value="$USER_HOME$/PycharmProjects/mint" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/PycharmProjects/Practice" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/PycharmProjects/Practice" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/Practice">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4301.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526857648024" />
+              <option name="buildTimestamp" value="1515668400447" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/Python_for_testers">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4301.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520736560828" />
+              <option name="buildTimestamp" value="1515668450664" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/mint">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4301.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520349024472" />
+              <option name="buildTimestamp" value="1515668458468" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>

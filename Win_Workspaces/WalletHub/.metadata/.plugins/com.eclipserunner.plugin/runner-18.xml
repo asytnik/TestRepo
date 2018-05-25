@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runner version="1.0.0">
+<category expanded="true" name="Uncategorized">
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="FB_post"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="LoginFB_linear"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="LoginFacebook"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="SomePractice"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="TestProperties"/>
+</category>
+</runner>

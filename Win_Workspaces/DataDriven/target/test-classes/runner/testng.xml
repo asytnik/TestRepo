@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Learning TestNG">
+<!-- we can implement group runner in any test group --> 
+  <groups>
+    <run>
+      <include name="p2"/>
+    </run>
+  </groups>
+
+  <listeners>
+   <listener class-name="listeners.CustomsListeners"></listener>
+   <listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+  </listeners>
+    
+  <test name="Login Test">
+    <classes>
+      <class name="testnglearning.TestCase_1"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Validate Title Test">
+    <classes>
+      <class name="testnglearning.TestCase_2"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Dependency Test">
+    <classes>
+      <class name="testnglearning.TestCase_3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
